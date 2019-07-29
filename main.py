@@ -43,7 +43,7 @@ def login():
     try:
         url = "https://"+APIC_ip+"/api/aaaLogin.json"
 
-        payload = "{\n  \"aaaUser\":{\n    \"attributes\":{\n      \"name\":"+APIC_username+",\n      \"pwd\":"+APIC_password+"\n    }\n  }\n}"
+        payload = "{\"aaaUser\":{\"attributes\":{\"name\":\""+APIC_username+"\",\"pwd\":\""+APIC_password+"\"}}}"
 
         response = requests.request("POST", url, data=payload, verify=False)
 

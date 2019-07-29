@@ -21,6 +21,9 @@
 * Open controller.py file and make necessary changes as mentioned in the comments
 * Import the virtual env(apic_python) into your development environment or you can setup your own with the necessary libraries
 * After necessary changes are made to the code as specified in the comments, execute/run main.py file on the editor or on the terminal and click on the URL (http://0.0.0.0:5001)
+* If running on terminal use the below commands
+export FLASK_APP=main.py
+flask run
 
 
 #### API Reference/Documentation:

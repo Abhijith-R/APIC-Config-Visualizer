@@ -1,5 +1,5 @@
 # APIC-Config-Visualizer
- Project to visualize APIC configuration data using GoJS graph library.
+ Project to visualize APIC configuration data using GoJS graph library. It is hard to visulise APIC config on APIC dashboard as the object are listed down in a tree structure. This app helps visualise these objects in a graph which help the user to undertsand the object and trace the object graphically in turn help on debugging.
 
 #### Author:
 
@@ -24,7 +24,6 @@
 * If running on terminal use the below commands
 export FLASK_APP=main.py
 flask run
-
 
 #### API Reference/Documentation:
 * [Cisco APIC REST API](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/aci/apic/sw/2-x/rest_cfg/2_1_x/b_Cisco_APIC_REST_API_Configuration_Guide/b_Cisco_APIC_REST_API_Configuration_Guide_chapter_01.html)

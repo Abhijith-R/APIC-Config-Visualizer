@@ -1,7 +1,7 @@
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/Abhijith-R/APIC-Config-Visualizer)
 
 # APIC-Config-Visualizer
- Project to visualize APIC configuration data using GoJS graph library. It is hard to visulise APIC config on APIC dashboard as the object are listed down in a tree structure. This app helps visualise these objects in a graph which help the user to undertsand the object and trace the object graphically in turn help on debugging.
+ Project to visualize APIC configuration data using GoJS graph library. It is hard to visulise APIC config on APIC dashboard as the object are listed down in a tree structure. This app helps visualise these objects in a graph which help the user to undertsand the object and trace the object graphically in turn help in debugging.
 
 #### Author:
 

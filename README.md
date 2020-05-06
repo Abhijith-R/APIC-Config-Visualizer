@@ -17,7 +17,7 @@
 #### Steps to Reproduce
 * Download/clone the repository
 * Import the code into a text editor suck as pycharm
-* Make sure all the dependencies are satisfied as mentioned in reuirements.txt
+* Make sure all the dependencies are satisfied as mentioned in requirements.txt
 * Open controller.py file and make necessary changes as mentioned in the comments
 * Import the virtual env(apic_python) into your development environment or you can setup your own with the necessary libraries
 * After necessary changes are made to the code as specified in the comments, execute/run main.py file on the editor or on the terminal and click on the URL (http://0.0.0.0:5001)

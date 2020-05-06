@@ -11,8 +11,6 @@
 * Python 3.X and its libraries mentioned in requirements.txt
 * PyCharm/Any text editor
 * Flask
-* Make sure you have a running TMS instance
-* Make sure the endpoints are registered in the TMS instance
 
 #### Steps to Reproduce
 * Download/clone the repository
